@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/change_settings"
+        android:title="@string/change_lang"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/setting_reminder"
+        android:title="@string/reminder_set"
+        app:showAsAction="never"
+        />
+</menu>

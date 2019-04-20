@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KatalogFilm</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="cari">Cari</string>
+    <string name="todo">TODO</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="movie_overview">Ringkasan</string>
+    <string name="loading">Loading..</string>
+    <string name="_50">50</string>
+    <string name="rating">Bintang</string>
+    <string name="spiderbom">SpiderBom</string>
+    <string name="_8">8</string>
+    <string name="duration">Durasi</string>
+    <string name="_5">5</string>
+    <string name="language">Bahasa</string>
+    <string name="genres">Genre</string>
+    <string name="release">Rilis</string>
+    <string name="overview">Ringkasan</string>
+    <string name="now_playing">Sedang Bermain</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="change_lang">Ganti Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="remove_fav">Dihapus dari Favorit</string>
+    <string name="add_fav">Ditambahkan ke Favorit</string>
+    <string name="no_data_available">Tidak Ada Data!</string>
+    <string name="content_title">Katalog Film</string>
+    <string name="message_reminder">Cek Film Terbaru Hari ini!</string>
+    <string name="enable_notification">Notifikasi dinyalakan</string>
+    <string name="cancel_notification">Notifikasi dimatikan</string>
+    <string name="enable_remider">Pengingat dinyalakan</string>
+    <string name="disable_remider">Pengingat dimatikan</string>
+    <string name="daily">harian</string>
+    <string name="reminder_set">Pengingat</string>
+</resources>
